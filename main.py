@@ -2,7 +2,7 @@
 
 import os
 
-LINE = "Your leaves will catch the morning sun, your roots will stay cozy, and someone will water you right on time."
+LINE = "Good news, little windowsill friend: the sun loves you, water is coming, and your leaves are about to look fabulous."
 
 assert 1 <= len(LINE) <= 120 and LINE.strip(), "LINE must be 1-120 chars and non-blank"
 
